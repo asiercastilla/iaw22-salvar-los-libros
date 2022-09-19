@@ -1,0 +1,66 @@
+#cabecera{
+    background-color: black;
+    height: 110px;
+    width: 100%;
+}
+
+.titulo{
+    color: aliceblue;
+    text-align: center;
+}
+
+.tabla li{
+    display: inline;
+    color: aliceblue;
+    margin: 15px ;
+}
+
+ul{
+    text-align: center;
+}
+
+#parrafo1{
+    background-color: beige;
+    
+}
+
+hr{
+    color: black;
+    height: 2px;
+}
+
+
+.img1{
+    height: 100px;
+    width: 100px;
+}
+
+.a{
+    text-align: center;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+#pie{
+    background-color: black;
+    height: 40px;
+}
+
+.material-symbols-outlined {
+    color: aliceblue;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}

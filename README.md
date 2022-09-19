@@ -7,3 +7,4 @@ Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué v
 El contexto para el desarrollo de la web debe ser este, y la idea principal es Salvemos a los libros!
 
 Para ello he decido buscar otro espacio en el que se puedan almacenar esos libros
+

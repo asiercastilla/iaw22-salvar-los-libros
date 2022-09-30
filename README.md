@@ -11,5 +11,5 @@ Para ello he decido buscar otro espacio en el que se puedan almacenar esos libro
 En esta imagen podemos ver un prototipo de como sera mi página y los diferentes apartados que tendra.
 
 
-![Alt text](/assets/img/Captura de pantalla)
+![Alt text](/assets/img/Captura.png "Moqups")
 

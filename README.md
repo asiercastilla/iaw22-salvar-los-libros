@@ -6,5 +6,9 @@ Pero desde parte de los alumnos del centro se le ha detectado una pega, ¿Qué v
 
 El contexto para el desarrollo de la web debe ser este, y la idea principal es Salvemos a los libros!
 
-Para ello he decido buscar otro espacio en el que se puedan almacenar esos libros
+Para ello he decido buscar otro espacio en el que se puedan almacenar esos libros y sacarles un partido. Se aceptan donaciones ya sea de dinero o de el espacio para darles una segunda vida a estos libros llenos de cultura y aprendizaje
+
+En esta imagen podemos ver un prototipo de como sera mi página y los diferentes apartados que tendra.
+
+
 
